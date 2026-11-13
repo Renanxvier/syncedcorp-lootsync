@@ -1,4 +1,4 @@
-# 🚀 LootSync
+## LootSync
 
 Sistema de gestão de catálogo e versões de assets digitais da SyncedCorp. A aplicação combina uma API em Python com um painel web para cadastrar e consultar itens como sprites, áudios, scripts e builds.
 
